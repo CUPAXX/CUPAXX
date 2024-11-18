@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello folk 👋
 
-<!--
-**CUPAXX/CUPAXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+Has 2+ years of working experience in the IT Field as a Frontend Developer & Mobile Developer.
+Experienced in using ReactJs, React Native, Tailwind CSS, Material UI, MySQL, MongoDB, GraphQL, PHP, Javascript.
 
-Here are some ideas to get you started:
+And have experience manage CI/CD Jenkins, handle pipeline jenkins, create script for auto development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A fast learner who adapts quickly to change, eager to learn new things in Information and Technology, and disciplined. Generally, before starting anything, I plan ahead of time, coordinate with the team, look for references and think carefully.
+
+TECHNICAL SKILLS :
+React Native, React Js, Express Js, Jenkins, Next Js, Bootstrap and Tailwind
+
